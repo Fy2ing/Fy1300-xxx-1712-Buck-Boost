@@ -6,3 +6,6 @@ The module adopts Buck-Boost DC-DC scheme, voltage input of 2.5V-20V. **The inpu
 - **Input Voltage:** 2.5V ~ 20V
 -  **Output Current:** 750mA MAX
 -  **Efficiency:** 82% MAX
+## Typical applications
+![Typical applications](https://github.com/Fy2ing/Fy1300-xxx-1712-Buck-Boost/blob/main/Picture/Typical_applications.jpg?raw=true)
+## For more details, please view the corresponding data sheet!
